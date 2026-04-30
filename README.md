@@ -1,6 +1,6 @@
 # Tarea U2 - Programación Orientada a Objetos
 **Universidad Politécnica Salesiana**  
-**Estudiante:** Jordan Llumiquinga
+**Estudiante:** Llumiquinga Jordan
 
 ## Descripción
 Sistema de gestión de contenido audiovisual implementando 
